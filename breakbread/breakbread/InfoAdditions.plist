@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>GOOGLE_PLACES_API_KEY</key>
+	<string></string>
+	<key>NSContactsUsageDescription</key>
+	<string>breakbread uses your contacts to quickly add friends to your party.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>breakbread uses your camera to scan receipts.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>breakbread needs photo access to upload receipt images.</string>
+	<key>OPENAI_API_KEY</key>
+	<string></string>
+	<key>ANTHROPIC_API_KEY</key>
+	<string></string>
+</dict>
+</plist>
